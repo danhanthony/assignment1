@@ -1,0 +1,74 @@
+[
+  {
+    "Calendar Year": 2007,
+    "Heroin Deaths": 399,
+    "Prescription Opioid Deaths": 302,
+    "Alcohol Deaths": 187,
+    "Benzodiazepine Deaths": 37,
+    "Cocaine Deaths": 248,
+    "Fentanyl Deaths": 26
+  },
+  {
+    "Calendar Year": 2008,
+    "Heroin Deaths": 289,
+    "Prescription Opioid Deaths": 280,
+    "Alcohol Deaths": 175,
+    "Benzodiazepine Deaths": 48,
+    "Cocaine Deaths": 157,
+    "Fentanyl Deaths": 25
+  },
+  {
+    "Calendar Year": 2009,
+    "Heroin Deaths": 360,
+    "Prescription Opioid Deaths": 251,
+    "Alcohol Deaths": 162,
+    "Benzodiazepine Deaths": 52,
+    "Cocaine Deaths": 162,
+    "Fentanyl Deaths": 27
+  },
+  {
+    "Calendar Year": 2010,
+    "Heroin Deaths": 238,
+    "Prescription Opioid Deaths": 311,
+    "Alcohol Deaths": 160,
+    "Benzodiazepine Deaths": 58,
+    "Cocaine Deaths": 135,
+    "Fentanyl Deaths": 39
+  },
+  {
+    "Calendar Year": 2011,
+    "Heroin Deaths": 247,
+    "Prescription Opioid Deaths": 342,
+    "Alcohol Deaths": 161,
+    "Benzodiazepine Deaths": 68,
+    "Cocaine Deaths": 148,
+    "Fentanyl Deaths": 26
+  },
+  {
+    "Calendar Year": 2012,
+    "Heroin Deaths": 392,
+    "Prescription Opioid Deaths": 311,
+    "Alcohol Deaths": 195,
+    "Benzodiazepine Deaths": 73,
+    "Cocaine Deaths": 153,
+    "Fentanyl Deaths": 29
+  },
+  {
+    "Calendar Year": 2013,
+    "Heroin Deaths": 464,
+    "Prescription Opioid Deaths": 316,
+    "Alcohol Deaths": 238,
+    "Benzodiazepine Deaths": 69,
+    "Cocaine Deaths": 154,
+    "Fentanyl Deaths": 58
+  },
+  {
+    "Calendar Year": 2014,
+    "Heroin Deaths": 578,
+    "Prescription Opioid Deaths": 329,
+    "Alcohol Deaths": 270,
+    "Benzodiazepine Deaths": 103,
+    "Cocaine Deaths": 198,
+    "Fentanyl Deaths": 185
+  }
+]
